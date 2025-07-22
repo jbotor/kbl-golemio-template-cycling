@@ -4,5 +4,32 @@
     "name": "Example Author",
     "url": "https://example.com"
   },
-  "templates": []
+  "templates": [
+    {
+      "id": "golemio-cycling-prague",
+      "name": "Golemio Cycling Prague",
+      "description": "Simple data app that displays 3 weeks history of Prague cycling data.",
+      "requirements": {
+        "backends": null,
+        "components": null,
+        "features": null
+      },
+      "path": "golemio-cycling-prague",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "description": "",
+          "stable": false,
+          "components": [
+            "keboola.data-apps",
+            "keboola.orchestrator",
+            "keboola.python-transformation-v2",
+            "keboola.snowflake-transformation",
+            "ex-generic-v2"
+          ],
+          "path": "v0"
+        }
+      ]
+    }
+  ]
 }

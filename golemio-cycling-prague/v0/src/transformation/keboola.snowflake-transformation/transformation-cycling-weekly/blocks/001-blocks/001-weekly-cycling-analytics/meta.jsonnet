@@ -1,0 +1,3 @@
+{
+  name: "Weekly Cycling Analytics",
+}
