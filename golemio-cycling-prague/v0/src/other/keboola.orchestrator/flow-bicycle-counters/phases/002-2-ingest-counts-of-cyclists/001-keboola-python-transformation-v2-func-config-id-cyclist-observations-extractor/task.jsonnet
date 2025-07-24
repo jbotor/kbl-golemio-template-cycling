@@ -3,7 +3,7 @@
   enabled: true,
   task: {
     mode: "run",
-    configPath: "transformation/keboola.python-transformation-v2/cyclist-observations-extractor",
+    configPath: "transformation/keboola.python-transformation-v2/python-extract-observations",
   },
   continueOnFailure: false,
 }

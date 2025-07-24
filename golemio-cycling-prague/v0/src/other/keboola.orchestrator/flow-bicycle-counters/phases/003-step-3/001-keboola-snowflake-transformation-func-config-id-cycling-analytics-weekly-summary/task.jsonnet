@@ -3,7 +3,7 @@
   enabled: true,
   task: {
     mode: "run",
-    configPath: "transformation/keboola.snowflake-transformation/cycling-analytics-weekly-summary",
+    configPath: "transformation/keboola.snowflake-transformation/transformation-cycling-weekly",
   },
   continueOnFailure: false,
 }
