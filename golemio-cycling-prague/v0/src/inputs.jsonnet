@@ -22,7 +22,7 @@
               description: "Should current week be included to report?",
               type: "bool",
               default: false,
-              kind: "input"
+              kind: "confirm"
             },
           ],
         },
